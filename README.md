@@ -28,3 +28,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce tartı
 ### License
 
 MIT
+# kodluyoruzilkrepo
